@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-  I'm <b>[Gwang jong Ko](https://koptimizer.github.io/CV/)</b>, a student learning AI from Korea.
+  I'm <b>[Gwang Jong Ko](https://koptimizer.github.io/CV/)</b>, a student learning AI from Korea.
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
 - 🌱 I’m currently learning <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b> & <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b>.
