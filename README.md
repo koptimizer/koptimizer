@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
 - 🌱 I’m currently learning <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b> & <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b>.
-- 🔎 I'm also interested in <b>[Cloud](https://github.com/koptimizer/my_Cloud-studio)</b>, <b>[Chat-bot](https://github.com/koptimizer/kakaotalk_chatbot_sandol)</b>, and <b>[We](https://github.com/koptimizer/CJB_shoppingMall_web_jsp)[b](https://github.com/koptimizer/IDALab.io)/[App](https://github.com/koptimizer/BabyFirst) development</b>.
+- 🔎 I'm also interested in <b>[Cloud](https://github.com/koptimizer/my_Cloud-studio)</b>, <b>[Chat-bot](https://github.com/koptimizer/kakaotalk_chatbot_sandol)</b>, and <b>[W](https://github.com/koptimizer/CJB_shoppingMall_web_jsp)[eb](https://github.com/koptimizer/IDALab.io)/[App](https://github.com/koptimizer/BabyFirst) development</b>.
 - 💬 Ask me about anything <b>[here](https://github.com/koptimizer/koptimizer/issues)</b>.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/koptimizer/koptimizer.svg)
