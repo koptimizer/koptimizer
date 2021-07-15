@@ -4,7 +4,7 @@
   I'm <b>[Gwang Jong Ko](https://koptimizer.github.io/CV/)</b>, a student learning AI from South korea.
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
-- 🌱 I’m currently learning <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b> & <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b>.
+- 🌱 I’m currently studying <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b> & <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b>.
 - 🔎 I'm also interested in <b>[Cloud](https://github.com/koptimizer/my_Cloud-studio)</b>, <b>[Chat-bot](https://github.com/koptimizer/kakaotalk_chatbot_sandol)</b>, and <b>[W](https://github.com/koptimizer/CJB_shoppingMall_web_jsp)[eb](https://github.com/koptimizer/IDALab.io)/[App](https://github.com/koptimizer/BabyFirst) development</b>.
 - 💬 Ask me about anything <b>[here](https://github.com/koptimizer/koptimizer/issues)</b>.
 
