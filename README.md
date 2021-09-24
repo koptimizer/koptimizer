@@ -1,7 +1,10 @@
 
 ### Hi there 👋
+I'm Gwangjong Ko (a.k.a Koptimizer, Kopt), a student who wants to do research on making a better world.<br/><br/>
+My research interests are optimization(for operation research) and artificial intelligence, and I want to solve the optimization problem using machine learning and metaheuristic. In addition, I'm also Interested in NLP chatbot, web/app dev, and cloud computing env.<br/><br/>
+I like a series of processes that make something, serve the public, get feedback, and more develop it!<br/>
+I want to collaborate with more people and experience fun projects.  
 
-  I'm <b>[Gwang Jong Ko](https://koptimizer.github.io/CV/)</b>, a student learning AI from South korea.
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
 - 🌱 I’m currently studying <b>[Optimization(OR)](https://github.com/koptimizer/my_Optimization-studio)</b> & <b>[Machine learning](https://github.com/koptimizer/my_Optimization-studio)</b>.
