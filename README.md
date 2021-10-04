@@ -17,4 +17,4 @@ I want to collaborate with more people and experience fun projects.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko970710@gmail.com)](mailto:ko970710@gmail.com)
 </br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koptimizer)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github.com/koptimizer/koptimizer/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/koptimizer/koptimizer/blob/output/github-contribution-grid-snake.svg)
