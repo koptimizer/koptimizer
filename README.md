@@ -1,9 +1,7 @@
 
 ### Hi there 👋
-I'm Gwangjong Ko (a.k.a Koptimizer, Kopt)<br/><br/>
-My research interests are optimization(for operation research) and artificial intelligence, and I want to solve the various optimization problems in the world using machine learning and metaheuristic. In addition, I'm also interested in NLP chatbot, web/app dev, and cloud computing env.<br/><br/>
-I like a series of processes that make something, serve the public, get feedback, and more develop it!<br/>
-I want to collaborate with more people and experience fun projects.  
+I'm Gwangjong Ko, (a.k.a Koptimizer, Kopt)<br/>
+I aim to develop my skills and perspective between engineering and business
 
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
@@ -16,5 +14,13 @@ I want to collaborate with more people and experience fun projects.
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j_g_ok/)](https://www.instagram.com/j_g_ok/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko970710@gmail.com)](mailto:ko970710@gmail.com)
 </br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koptimizer)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/koptimizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koptimizer" />
+</a>
+<a href="https://github.com/koptimizer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koptimizer&langs_count=3" />
+</a>
 ![](https://github.com/koptimizer/koptimizer/blob/output/github-contribution-grid-snake.svg)
+
+
+
