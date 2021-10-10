@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Gwangjong Ko, Korean (a.k.a Koptimizer, Kopt)<br/>
+I'm Gwangjong Ko (a.k.a Koptimizer, Kopt), double majoring in ```IT Business Administration & Computer Science``` in South Korea.<br/>
 I aim to develop my skills and perspective between engineering and business.
 
 
