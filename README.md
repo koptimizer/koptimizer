@@ -1,7 +1,7 @@
 
 ### Hi there 👋
-I'm Gwangjong Ko, (a.k.a Koptimizer, Kopt)<br/>
-I aim to develop my skills and perspective between engineering and business
+I'm Gwangjong Ko, Korean (a.k.a Koptimizer, Kopt)<br/>
+I aim to develop my skills and perspective between engineering and business.
 
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
