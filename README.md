@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 I'm Gwangjong Ko (a.k.a Koptimizer, Kopt), double majoring in ```IT Business Administration & Computer Science``` in South Korea.<br/>
-I aim to develop my skills and perspective between engineering and business.
+I aim to develop my skills and perspectives between the engineering and the business.
 
 
 - 🔭 I’m currently working on <b>[IDA Lab](https://koptimizer.github.io/IDALab.io/)</b>.
