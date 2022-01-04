@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Gwangjong Ko (a.k.a Koptimizer, Kopt), double majoring in ```IT Business Administration & Computer Science```<br/>
+I'm Gwangjong Ko (a.k.a Koptimizer, Kopt), double majoring in ```IT Business Administration & Computer Science```.<br/>
 I aim to develop my skills and perspectives between engineering and business.
 
 
