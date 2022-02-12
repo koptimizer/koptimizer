@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Gwangjong Ko, and you can call me kopt.
+I'm Gwangjong Ko, and you can call me Kopt.</br>
 I aim to develop my skills and perspectives between engineering and business.
 
 
