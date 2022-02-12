@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Gwangjong Ko a.k.a Koptimizer, Kopt.<br/>
+I'm Gwangjong Ko, and you can call me kopt.
 I aim to develop my skills and perspectives between engineering and business.
 
 
