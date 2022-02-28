@@ -15,7 +15,7 @@ I aim to develop my skills and perspectives between engineering and business.
 [![Blog Badge](http://img.shields.io/badge/-Tech%20Blog-orange?style=flat-square&logo=blogger&logoColor=white&link=https://https://kopt.tistory.com/)](https://kopt.tistory.com/)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMr_7DR6994fZmhFD3M7Knw)](https://www.youtube.com/channel/UCMr_7DR6994fZmhFD3M7Knw)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j_g_ok/)](https://www.instagram.com/j_g_ok/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ko970710@gmail.com)](mailto:ko970710@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koptimizer@korea.ac.kr)](mailto:koptimizer@korea.ac.kr)
 </br>
 <a href="https://github.com/koptimizer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koptimizer" />
