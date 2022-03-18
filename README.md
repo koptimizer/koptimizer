@@ -12,7 +12,7 @@ I aim to develop my skills and perspectives between engineering and business.
 ![GitHub last commit](https://img.shields.io/github/last-commit/koptimizer/koptimizer.svg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkoptimizer)](https://hits.seeyoufarm.com)
 [![Github Badge](http://img.shields.io/badge/-CV-blue?style=flat-square&logo=github&logoColor=white&link=https://koptimizer.github.io/CV/)](https://koptimizer.github.io/CV/)
-[![Blog Badge](http://img.shields.io/badge/-Koptimizer.tech%20-orange?style=flat-square&logo=blogger&logoColor=white&link=http://koptimizer.tech)](http://koptimizer.tech)
+[![Blog Badge](http://img.shields.io/badge/-Koptimizer.tech%20-orange?style=flat-square&logo=blogger&logoColor=white&link=https://koptimizer.tech)](https://koptimizer.tech)
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCMr_7DR6994fZmhFD3M7Knw)](https://www.youtube.com/channel/UCMr_7DR6994fZmhFD3M7Knw)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/j_g_ok/)](https://www.instagram.com/j_g_ok/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koptimizer@korea.ac.kr)](mailto:koptimizer@korea.ac.kr)
